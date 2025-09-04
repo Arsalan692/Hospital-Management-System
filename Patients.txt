@@ -1,0 +1,5 @@
+500 Muhammad Yousuf 19 Male 175 OCD 45.1 A+
+501 Arsalan Ahmed 18 Male 169 Hyper Tension 52.3 O+
+502 Arham Rasheed 20 Male 165 Fever 64.8 B-
+503 Aizaz Waheed 20 Male 174 Cough 48 O-
+504 Hammad Siddiqui 19 Male 180 ADHD 55 AB+
